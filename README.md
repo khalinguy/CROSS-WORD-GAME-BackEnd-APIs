@@ -1,16 +1,16 @@
 # CROSS-WORD-GAME-BackEnd
 
 # Stack
-⭐ Spring Security
-⭐ Spring MVC
-⭐ JDK 1.8
+⭐ Spring Security</br>
+⭐ Spring MVC</br>
+⭐ JDK 1.8</br>
 
 # Features
-✔️ Authentication
-✔️ Generate crossword table for admin role with customized inputs
-✔️ Save keywords position hidden on table
-✔️ Save players' results
-✔️ Calculate players' point for the game
+✔️ Authentication</br>
+✔️ Generate crossword table for admin role with customized inputs</br>
+✔️ Save keywords position hidden on table</br>
+✔️ Save players' results</br>
+✔️ Calculate players' point for the game</br>
 
 # Note
 
