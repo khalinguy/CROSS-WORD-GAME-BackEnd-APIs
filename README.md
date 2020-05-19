@@ -14,4 +14,4 @@
 
 # Note
 
-APIs can be tesed with Swagger UI at localhost:<port>/swagger-ui.html
+APIs can be tesed with Swagger UI at localhost:<//port>/swagger-ui.html
